@@ -15,7 +15,7 @@ function createLinkedInGrid() {
     let gridHTML = '<div class="linkedin-grid">';
     linkedinFeeds.forEach(url => {
         gridHTML += `
-            <div class="grid-item">S
+            <div class="grid-item">
                 <iframe src="${url}" height="312" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
             </div>
         `;
