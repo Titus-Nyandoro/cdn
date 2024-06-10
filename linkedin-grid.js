@@ -1,6 +1,9 @@
 // LinkedIn Embed URLs
 const linkedinFeeds = [
-    'https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7009404129856884736',
+    'https://www.linkedin.com/embed/feed/update/urn:li:share:7204539529389617152',
+    'https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7201718196129730560',
+    'https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6652950789012627456', 
+    'https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7163173473773576192', 
     // Add more LinkedIn embed URLs here
 ];
 
